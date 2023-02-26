@@ -113,6 +113,4 @@ When there is no errors, `monty` returns `0`. Otherwise, returns `1`
     <ul>
     <li><a href="https://github.com/Ssekiwala-Colline">Github</a></li>
     <li><a href="https://twitter.com/SsekiwalaC">Twitter</a></li>
-
-    </ul>
 </details>
